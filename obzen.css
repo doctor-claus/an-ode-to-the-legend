@@ -1,0 +1,43 @@
+body{
+  margin-top: 60px;
+}
+.thumbnail{
+  margin-left: 40px;
+}
+h1{
+  font-family: Economica;
+  margin-left: 700px;
+  position: absolute;
+  margin-top: 150px;
+}
+.jumbotron{
+  background-color: black;
+  color: white;
+}
+h3{
+  font-family: Economica;
+  position: absolute;
+  margin-left:700px;
+  margin-top: 200px;
+}
+img{
+  border-radius: 500px;
+  height: 400px;
+}
+.caption{
+  font-family: Arsenal;
+  position: absolute;
+  margin-left: 140px;
+}
+li{
+  font-size: 20px;
+  margin-top: 40px;
+}
+#foot{
+  font-size: 50px;
+  font-family: Economica;
+}
+#code{
+  margin-top: 50px;
+}
+
